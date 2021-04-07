@@ -38,7 +38,7 @@ Felix Werthschulte, Dozent für Neue Medien
 
 ## Termine
 
-- [Termin-Liste](https://github.com/molldur/)
+- [Termin-Liste](https://github.com/molldur/bif/blob/main/termine.md)
 
 ---
 
@@ -46,4 +46,4 @@ Felix Werthschulte, Dozent für Neue Medien
 
 - Event erfinden: Wer? Was? Wann? Wo? Wie? Warum?
 - Definition Öffentlichkeitsarbeit: Fragen zur Textarbeit (kommt per Mail)
--
+- Event und Aufgaben bitte per Mail bis 14.4.
