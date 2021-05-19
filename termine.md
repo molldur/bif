@@ -6,12 +6,12 @@
 | ----- | ------- | ------ | ---- |
 | Mittwoch, 7.4.21 | 1 | Organisatorisches | [Videokonferenz](https://meet.ffmuc.net/maksbifsose21)
 | Mittwoch, 14.4.21 | 2 | | asynchroner Unterricht
-| Mittwoch, 21.4.21 | 5 | Pressemitteilung | [Videokonferenz](https://meet.ffmuc.net/maksbifsose21)
-| Mittwoch, 28.4.21 | 6 | | asynchroner Unterricht
-| Mittwoch, 5.5.21 | 7 | Newsletter, Presseverteiler | [Videokonferenz](https://meet.ffmuc.net/maksbifsose21)
-| Mittwoch, 12.5.21 | 8 | | asynchroner Unterricht
-| Mittwoch, 19.5.21 | 3 | Biografie | [Videokonferenz](https://meet.ffmuc.net/maksbifsose21)
-| Mittwoch, 26.5.21 | 4 | | asynchroner Unterricht
+| Mittwoch, 21.4.21 | 3 | Pressemitteilung | [Videokonferenz](https://meet.ffmuc.net/maksbifsose21)
+| Mittwoch, 28.4.21 | 4 | | asynchroner Unterricht
+| Mittwoch, 5.5.21 | 5 | Newsletter, Presseverteiler | [Videokonferenz](https://meet.ffmuc.net/maksbifsose21)
+| Mittwoch, 12.5.21 | 6 | | asynchroner Unterricht
+| Mittwoch, 19.5.21 | 7 | Biografie | [Videokonferenz](https://meet.ffmuc.net/maksbifsose21)
+| Mittwoch, 26.5.21 | 8 | | asynchroner Unterricht
 | Mittwoch, 2.6.21 | 9 | Social Media I | [Videokonferenz](https://meet.ffmuc.net/maksbifsose21)
 | Mittwoch, 9.6.21 | 10 | | asynchroner Unterricht
 | Mittwoch, 16.6.21 | 11 | Social Media II, Input von Anna | [Videokonferenz](https://meet.ffmuc.net/maksbifsose21)
