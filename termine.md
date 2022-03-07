@@ -1,26 +1,21 @@
 # Termine Berufsfeld im Fokus
 
-- Uhrzeit: mittwoch, 10.15-11.15
-- online
+- Uhrzeit: montags, 14.00-15.00
+- Ort: Freies Radio Kassel, Opernstraße 2, 34117 Kassel (3. Stock)
+- Seminar-Thema: Vernetzungs- und Förderungsmöglichkeiten in der Freiberuflichkeit
 
 | Datum | Sitzung | Inhalt | Referent*in (7. Sem.)
 | ----- | ------- | ------ | -----------
-| Mittwoch, 13.10.21 | 1 | Begrüßung, Organisatorisches
-| Mittwoch, 20.10.21 | 2 | Was heißt "Freiberuflichkeit"?
-| Mittwoch, 27.10.21 | 3 | Geschäftsidee
-| Mittwoch, 3.11.21 | 4 | Honorare und Verträge
-| Mittwoch, 10.11.21 | 5 | Selbstmarketing
-| Mittwoch, 17.11.21 | 6 | Vorstellung BA-Thema | Andrea
-| Mittwoch, 24.11.21 | 7 | Vorstellung BA-Thema | Chaewon
-| Mittwoch, 1.12.21 | 8 | Vorstellung BA-Thema | Soojin
-| Mittwoch, 8.12.21 | 9 | Vorstellung BA-Thema | Siyao
-| Mittwoch, 15.12.21 | 10 | Vorstellung BA-Thema | Jiayuan
-| Mittwoch, 22.12.21 | - | 🎅
-| Mittwoch, 29.12.21 | - | 🎄
-| Mittwoch, 5.1.22 | 11 | Verwandte Berufsfelder
-| Mittwoch, 12.1.22 | 12 | Versicherungen
-| Mittwoch, 19.1.22 | 13 | [Klassik und Corona-Krise](https://www.nmz.de/artikel/wenn-das-studierte-handwerk-gefaehrlich-wird)
-| Mittwoch, 26.1.22 | 14 | [Klassik und Corona-Krise 2](https://www.br-klassik.de/aktuell/news-kritik/corona-ausbildung-karriere-junge-musiker-nachwuchs-akademisten-wettbewerb-100.html)
-| Mittwoch, 2.2.22 | 15 | Networking, Verbände
-| Mittwoch, 9.2.22 | 16 | Ausblick auf Sommersemester (Interviews)
-| Mittwoch, 16.2.22 | 17 | Fazit
+| Montag, 4.4.22 | 1 | Begrüßung, Organisatorisches
+| Montag, 11.4.22 | - | 🐰🥚
+| Montag, 18.4.22 | 3 | Einführung: Vernetzung und Förderung
+| Montag, 25.4.22 | 4 | Vernetzung und Interessenvertretung (Impuls)
+| Montag, 2.5.22 | 5 | Rekapitulation
+| Montag, 9.5.22 | 6 | Kooperation: Zweck und Chancen
+| Montag, 16.5.22 | 7 | Kooperationen: Formen
+| Montag, 23.5.22 | 8 | Kooperationen: Networking und Selbst-Marketing
+| Montag, 30.5.22 | 9 | Einführung: Förderungsmöglichkeiten
+| Montag, 6.6.22 | - | 🌺
+| Montag, 13.6.22 | 11 | Förderungsmöglichkeiten I (Impuls)
+| Montag, 20.6.22 | 12 | Förderungsmöglichkeiten II (Impuls), Fazit
+| Montag, 27.6.22 | - | 📽📽📽
