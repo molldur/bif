@@ -8,10 +8,10 @@
 | ----- | ------- | ------ | -----------
 | Montag, 4.4.22 | 1 | Begrüßung, Organisatorisches
 | Montag, 11.4.22 | - | 🐰🥚
-| Montag, 18.4.22 | 3 | Einführung: Vernetzung und Förderung
-| Montag, 25.4.22 | 4 | Vernetzung und Interessenvertretung (Impuls)
-| Montag, 2.5.22 | 5 | Rekapitulation | XY
-| Montag, 9.5.22 | 6 | Kooperation: Zweck und Chancen | XY
+| Montag, 18.4.22 | 3 | Kooperation: Zweck und Chancen | XY
+| Montag, 25.4.22 | 4 | Einführung: Vernetzung und Förderung
+| Montag, 2.5.22 | 5 | Vernetzung und Interessenvertretung (Impuls)
+| Montag, 9.5.22 | 6 | Rekapitulation | XY
 | Montag, 16.5.22 | 7 | Kooperationen: Formen | XY
 | Montag, 23.5.22 | 8 | Kooperationen: Networking und Selbst-Marketing | XY
 | Montag, 30.5.22 | 9 | Einführung: Förderungsmöglichkeiten | XY
