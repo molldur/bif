@@ -7,15 +7,15 @@
 | Datum | Sitzung | Inhalt | Referent*in (7. Sem.)
 | ----- | ------- | ------ | -----------
 | Montag, 4.4.22 | 1 | Begrüßung, Organisatorisches
-| Montag, 11.4.22 | - | 🐰🥚
-| Montag, 18.4.22 | 3 | Kooperation: Zweck und Chancen | XY
+| Montag, 11.4.22 | 2 | Kooperation: Zweck und Chancen | XY
+| Montag, 18.4.22 | - | Ostern 🐰🥚
 | Montag, 25.4.22 | 4 | Einführung: Vernetzung und Förderung
 | Montag, 2.5.22 | 5 | Vernetzung und Interessenvertretung (Impuls)
 | Montag, 9.5.22 | 6 | Rekapitulation | XY
 | Montag, 16.5.22 | 7 | Kooperationen: Formen | XY
 | Montag, 23.5.22 | 8 | Kooperationen: Networking und Selbst-Marketing | XY
 | Montag, 30.5.22 | 9 | Einführung: Förderungsmöglichkeiten | XY
-| Montag, 6.6.22 | - | 🌺
+| Montag, 6.6.22 | - | Pfingsten 🌺
 | Montag, 13.6.22 | 11 | Förderungsmöglichkeiten I (Impuls)
 | Montag, 20.6.22 | 12 | Förderungsmöglichkeiten II (Impuls), Fazit
-| Montag, 27.6.22 | - | 📽📽📽
+| Montag, 27.6.22 | - | Aufnahmewoche 📽📽📽
